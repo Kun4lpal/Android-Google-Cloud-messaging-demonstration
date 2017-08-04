@@ -2,4 +2,4 @@
 demo-9
 
 
-This demonstrates how to use google cloud messaing service - FIREBASE to store data using JSON format
+This demonstrates how to use google cloud messaging service - FIREBASE to store data using JSON format
